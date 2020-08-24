@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Memory",
+            "price": 5.90
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "price": 6.000
+        },
+        {
+            "id": 3,
+            "name": "Mouse",
+            "price": 50
+        }
+    ]
+}
